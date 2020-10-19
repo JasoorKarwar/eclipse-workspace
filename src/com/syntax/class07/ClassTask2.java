@@ -4,17 +4,20 @@ public class ClassTask2 {
 
 	public static void main(String[] args) {
 
-		boolean workDay = true;
-		int day = 1;
-
-		while (workDay) {
-			if (day < 6) {
-				System.out.println("I need a day off");
-			} else {
-			System.out.println("I do not need a day off anymore");
-			workDay = false;
+		System.out.println("---------------While Loop-------------");
+		int a=20;
+		//first we check condition
+		while(a<15) {
+			System.out.println("Hello"); //do something
+			a++;
 		}
-		day++;
-	}
+		
+		System.out.println("---------------Do Loop-------------");
+		int b=10;
+		//first do something
+		do {
+			System.out.println("Hi");
+			b++;
+			}while(b<15);//then check the condition
 	}
 }

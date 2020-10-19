@@ -19,9 +19,11 @@ public class LogicalOperators_37 {
 
 		if (thirsty==true && sleepy!=false) {
 			drink = "Water";
+			System.out.println("Looks like you need to drink" + " " + drink);
 		} else if (thirsty==true && sleepy==true) {
 			drink = "Coffee";
-		} else if (thirsty==false && sleepy==false) {
+			System.out.println("Looks like you need to drink" + " " + drink);
+		} else if (thirsty!=false && sleepy==true) {
 			drink = "Tea";
 			System.out.println("Looks like you need to drink" + " " + drink);
 		} else {

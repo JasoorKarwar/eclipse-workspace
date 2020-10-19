@@ -28,7 +28,7 @@ public class HomeWork03 {
 		}
 		System.out.println("The Comission is " + Comission + "commission.");
 		
-		if (commission >1000)
+		if (commission >1000)//incomplete code
 		
 	}
 

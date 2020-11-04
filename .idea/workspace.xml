@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="774d5b7f-f298-4edb-997f-2242c76a1dc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBatch8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBatch8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Ahmad.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Ahmad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Casting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Casting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Casting003.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Casting003.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/PracticeIfStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/PracticeIfStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ScannerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ScannerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ScannerPrac002.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ScannerPrac002.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ScannerPrac022.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ScannerPrac022.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jasoor/homework/LogicalOperator_032.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jasoor/homework/LogicalOperator_032.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jasoor/homework/LogicalOperators_035.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jasoor/homework/LogicalOperators_035.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jasoor/homework/LogicalOperators_36.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jasoor/homework/LogicalOperators_36.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jasoor/homework/LogicalOperators_37.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jasoor/homework/LogicalOperators_37.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class01/PracticeVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class01/PracticeVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class01/PrintlinVsPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class01/PrintlinVsPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class01/SyntaxProgrammer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class01/SyntaxProgrammer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/ArithemeticOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class02/ArithemeticOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/ArithemeticTask1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class02/ArithemeticTask1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/StringConcatenation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class02/StringConcatenation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/VariableDeclaration.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class02/VariableDeclaration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class02/VariableValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class02/VariableValues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/AdditionVsConcatenation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class03/AdditionVsConcatenation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/ClassTask1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class03/ClassTask1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/CompoundOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class03/CompoundOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/DoubleComparison.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class03/DoubleComparison.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/IfElseBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class03/IfElseBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/IfStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class03/IfStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/PrimitiveCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class03/PrimitiveCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/Recap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class03/Recap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class03/RelationalOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class03/RelationalOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ClassTask1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class04/ClassTask1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ClassTask2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class04/ClassTask2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ClassTask3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class04/ClassTask3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/IfElseIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class04/IfElseIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/NestedIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class04/NestedIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ScannerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class04/ScannerDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class04/ScannerDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class04/ScannerDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/ClassTask05_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/ClassTask05_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/ClassTask1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/ClassTask1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/ClassTask2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/ClassTask2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/ClassTask3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/ClassTask3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/HomeWork01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/HomeWork01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/HomeWork02.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/HomeWork02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/HomeWork02_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/HomeWork02_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/HomeWork03.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/HomeWork03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/LogicalAnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/LogicalAnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/LogicalOr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/LogicalOr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/NotMoreExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/NotMoreExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/NotOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/NotOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class05/ScannerIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class05/ScannerIf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/CalssTask1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class06/CalssTask1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/ClassTaskSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class06/ClassTaskSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/HomeWork01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class06/HomeWork01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/HomeWork02.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class06/HomeWork02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/SwitchCaseIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class06/SwitchCaseIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class06/SwitchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class06/SwitchDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/ClassTask01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class07/ClassTask01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/ClassTask2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class07/ClassTask2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/IncrementAndDecrement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class07/IncrementAndDecrement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/LuckyNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class07/LuckyNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/Recap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class07/Recap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/ScannerAndLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class07/ScannerAndLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/WhileLoopIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class07/WhileLoopIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class07/WhileVsDowWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class07/WhileVsDowWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/BreakKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class08/BreakKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/Class07Recap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class08/Class07Recap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/Class07RecapWithDoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class08/Class07RecapWithDoWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/ClassTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class08/ClassTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/ClassTask01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class08/ClassTask01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/ClassTask03.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class08/ClassTask03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/ContinueKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class08/ContinueKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class08/ForLoopDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class08/ForLoopDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/ArrayDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class09/ArrayDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/PrintingPatterns.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class09/PrintingPatterns.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class09/PrintingPatternsBestWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class09/PrintingPatternsBestWay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/ArrayFromScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/ArrayFromScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/ArraysAnotherWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/ArraysAnotherWay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/ArraysIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/ArraysIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/Class09ForLoopRecap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/Class09ForLoopRecap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/Class09LoopsRecap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/Class09LoopsRecap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/ClassTask01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/ClassTask01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/ClassTask2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/ClassTask2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/HW03.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/HW03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/Homework01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/Homework01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/Homework02.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/Homework02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/Homework03.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/Homework03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/MoreArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/MoreArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/ReveiwRecap02.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/ReveiwRecap02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/ReveiwRecapWhileLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/ReveiwRecapWhileLoops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/ReveiwWhileLoopsScan.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/ReveiwWhileLoopsScan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/ReveiwWhileLoopsWithBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/ReveiwWhileLoopsWithBreak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/ReviewArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/ReviewArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/ReviewForLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/ReviewForLoops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class10/ReviewNestedForLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class10/ReviewNestedForLoops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class11/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/review/NestedIfCondition.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/review/NestedIfCondition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/review/ReviewClass03_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/review/ReviewClass03_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/review/ReviewClass03_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/review/ReviewClass03_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/review/ReviewClass03_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/review/ReviewClass03_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/review/ReviewClass03_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/review/ReviewClass03_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/review/ScannerReview.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/review/ScannerReview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class05/HomeWork03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class05/HomeWork03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class11/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/review/ReviewClass03_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/review/ReviewClass03_2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jNkemMngexUJ0EZAZpaIgIb37S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ReviewClass03_2">
+    <configuration name="ClassTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class03.ClassTask1" />
+      <module name="JavaBatch8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class05.HomeWork03" />
+      <module name="JavaBatch8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewClass03_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review.ReviewClass03_2" />
+      <module name="JavaBatch8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.review.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReviewClass03_2" />
+        <item itemvalue="Application.HomeWork03" />
+        <item itemvalue="Application.ClassTask1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="774d5b7f-f298-4edb-997f-2242c76a1dc2" name="Default Changelist" comment="" />
+      <created>1603652044709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603652044709</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="282" key="GridCell.Tab.0.bottom" timestamp="1603652577314">
+      <screen x="1920" y="2" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.2.1536.824@1920.2.1536.824" timestamp="1603652577314" />
+    <state width="1493" height="282" key="GridCell.Tab.0.center" timestamp="1603652577314">
+      <screen x="1920" y="2" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.2.1536.824@1920.2.1536.824" timestamp="1603652577314" />
+    <state width="1493" height="282" key="GridCell.Tab.0.left" timestamp="1603652577314">
+      <screen x="1920" y="2" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.2.1536.824@1920.2.1536.824" timestamp="1603652577314" />
+    <state width="1493" height="282" key="GridCell.Tab.0.right" timestamp="1603652577314">
+      <screen x="1920" y="2" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.2.1536.824@1920.2.1536.824" timestamp="1603652577314" />
+  </component>
+</project>

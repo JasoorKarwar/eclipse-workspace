@@ -39,11 +39,11 @@ public class Main {
         */
 
 
-       /* Task2 task2 = new Task2();
+        Task2 task2 = new Task2();
         task2.printNumberEvenOrOdd(5);
         task2.printNumberEvenOrOdd(2);
         task2.printNumberEvenOrOdd(10);
-        task2.printNumberEvenOrOdd(1000);*/
+        task2.printNumberEvenOrOdd(1000);
 
         Task3 task3=new Task3();
         task3.isStringpalindrome("Syntax");

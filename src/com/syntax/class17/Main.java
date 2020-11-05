@@ -25,6 +25,7 @@ public class Main {
         qasim.name = "Qasim";
         qasim.age = 30;
         qasim.marks = 90;
+        qasim.printInfo();
 
         qasim.StudentsRegistered();
         qasim.numberOfStudentsEnrolled++;
